@@ -1,2 +1,2 @@
 # hiddify-from-root
-start hiddify from root with GUI on Wayland
+script for start hiddify from root with GUI using shortcut. Tested on Fedora Silverblue 42.
